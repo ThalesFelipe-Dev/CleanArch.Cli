@@ -4,6 +4,7 @@
 		<OutputType>Exe</OutputType>
 		<TargetFramework>net8.0</TargetFramework>
 		<PackAsTool>true</PackAsTool>
+		<IncludeBuildOutput>true</IncludeBuildOutput>
 		<ToolCommandName>cleanarch</ToolCommandName>
 		<PackageOutputPath>./nupkg</PackageOutputPath>
 	</PropertyGroup>
