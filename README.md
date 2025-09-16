@@ -1,7 +1,3 @@
-Aqui está o texto formatado em Markdown, pronto para ser usado como um arquivo README.
-
------
-
 # 🧰 CleanArch CLI
 
 Uma **ferramenta de linha de comando (CLI)** para gerar projetos baseados em **Clean Architecture** com .NET. Ela cria automaticamente a solução, os projetos, testes, referências e até habilita o **Swagger** quando configurado como WebAPI.
